@@ -1,56 +1,12 @@
-# AI-Powered PDF Analyzer 🧠✨
+# React + Vite
 
-![Project Banner](https://placehold.co/1200x400/000000/FFFFFF/png?text=DocuSumm\nAI-Powered+PDF+Analyzer)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<div align="center">
+Currently, two official plugins are available:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Framework-Flask-black.svg)](https://flask.palletsprojects.com/)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-</div>
+## Expanding the ESLint configuration
 
-> A powerful web-based tool to effortlessly summarize PDF documents and calculate the semantic similarity between two PDFs using the advanced **NPNET** model.
-
-## 🚀 Features
-
--   📝 **Effortless Summarization**: Upload any PDF and get a concise, easy-to-read summary in seconds.
--   ⚖️ **Document Similarity**: Upload two PDFs to receive a similarity score, helping you quickly understand the relationship between them.
--   🌐 **Simple Web Interface**: A clean, modern, and intuitive user interface. No installation needed for end-users.
--   🧠 **Powered by NPNET**: Leverages a state-of-the-art neural network model for high-quality, context-aware results.
-
----
-
-## 📸 Demo & Screenshots
-
-Here’s a quick look at the DocuSumm interface.
-
-**PDF Summarizer in Action:**
-![GIF of the PDF Summarizer](https://placehold.co/700x400/333/FFFFFF/gif?text=Summarizer+Demo+GIF)
-
-**PDF Similarity Checker:**
-![Screenshot of the PDF Similarity feature](https://placehold.co/700x400/555/FFFFFF/png?text=Similarity+Checker+Screenshot)
-
----
-
-## 🛠️ Technology Stack
-
-This project is built with a modern stack, combining a powerful backend with a responsive frontend.
-
--   **Backend**: Python, Flask
--   **ML Model**: PyTorch, NPNET, Transformers
--   **PDF Processing**: PyPDF2
--   **Frontend**: HTML5, CSS3, JavaScript
-
----
-
-## ⚙️ Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have Python 3.9+ and pip installed on your system.
-
-```sh
-python --version
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
