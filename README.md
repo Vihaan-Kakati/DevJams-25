@@ -10,12 +10,10 @@
 
 </div>
 
-> A powerful web-based tool to effortlessly summarize PDF documents and calculate the semantic similarity between two PDFs using the advanced **NPNET** model.
+> A powerful web-based tool to effortlessly summarize the similarities of 2 PDF documents using the advanced **NPNET** model.
 
 ## 🚀 Features
-
--   📝 **Effortless Summarization**: Upload any PDF and get a concise, easy-to-read summary in seconds.
--   ⚖️ **Document Similarity**: Upload two PDFs to receive a similarity score, helping you quickly understand the relationship between them.
+-   ⚖️ **Document Similarity**: Upload any two PDFs to receive a similarity score, helping you quickly understand the relationship between them and summarize them.
 -   🌐 **Simple Web Interface**: A clean, modern, and intuitive user interface. No installation needed for end-users.
 -   🧠 **Powered by NPNET**: Leverages a state-of-the-art neural network model for high-quality, context-aware results.
 
@@ -37,10 +35,10 @@ Here’s a quick look at the DocuSumm interface.
 
 This project is built with a modern stack, combining a powerful backend with a responsive frontend.
 
--   **Backend**: Python, Flask
+-   **Backend**: Python, Flask , 
 -   **ML Model**: PyTorch, NPNET, Transformers
--   **PDF Processing**: PyPDF2
--   **Frontend**: HTML5, CSS3, JavaScript
+-   **PDF Processing**: fitz (PyMuPDF) 
+-   **Frontend**: HTML5, CSS3, JavaScript 
 
 ---
 
@@ -50,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have Python 3.9+ and pip installed on your system.
+Make sure you have Python 3.10 or less and pip installed on your system.
 
 ```sh
 python --version
