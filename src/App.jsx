@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { gsap } from "gsap";
+import axios from "axios";
 import GridDistortion from "./GridDistortion";
 import BlurText from "./BlurText";
 import "./App.css";
@@ -36,12 +37,26 @@ function App() {
     });
   }, [pdfs]);
 
-  // File upload handler
-  const handleFiles = (files) => {
+  // File upload & backend integration
+  const handleFiles = async (files) => {
     const pdfFiles = Array.from(files).filter(
       (file) => file.type === "application/pdf"
     );
-    setPdfs((prev) => [...prev, ...pdfFiles]);
+
+    for (let file of pdfFiles) {
+      const formData = new FormData();
+      formData.append("file", file);
+
+      try {
+        const res = await axios.post("http://localhost:5000/upload", formData);
+        console.log(res.data);
+
+        // Add file + AI result to state for UI
+        setPdfs((prev) => [...prev, { ...file, aiResult: res.data.aiResult }]);
+      } catch (err) {
+        console.error("Upload failed:", err);
+      }
+    }
   };
 
   const handleFileChange = (e) => handleFiles(e.target.files);
@@ -90,6 +105,7 @@ function App() {
           direction="top"
           className="text-4xl mb-8"
           onAnimationComplete={() => console.log("Heading animation done!")}
+          ref={headingRef}
         />
 
         {/* Drag & Drop / Click */}
@@ -121,6 +137,9 @@ function App() {
               onMouseLeave={() => handleMouseLeave(index)}
             >
               {pdf.name}
+              {pdf.aiResult && (
+                <p className="ai-result">AI: {pdf.aiResult.summary}</p>
+              )}
             </div>
           ))}
         </div>
