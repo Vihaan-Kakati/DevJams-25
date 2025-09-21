@@ -58,3 +58,14 @@ Make sure you install the required python packages
 ```sh
 pip install -r requirements.txt
 ```
+# Run these following commands  
+## Download the dependencies
+```sh
+npm install
+```
+## to locally host the app 
+## in terminal 
+```sh
+npm run dev
+```
+
