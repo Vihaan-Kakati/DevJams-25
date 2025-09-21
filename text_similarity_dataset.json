@@ -1,0 +1,5002 @@
+[
+  {
+    "text1": "It is raining today",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The cat is sleeping",
+    "similarity": 0.58
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "The weather is cold",
+    "similarity": 0.17
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "It is windy today",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am very tired",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am watching a movie",
+    "similarity": 0.39
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The food tastes great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The food tastes great",
+    "similarity": 0.05
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The cat is sleeping",
+    "similarity": 0.2
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am cleaning my room",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am scared",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am sad today",
+    "similarity": 0.49
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "It is windy today",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The bed is comfortable",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am learning a new language",
+    "similarity": 0.3
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am happy today",
+    "similarity": 0.53
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The cat is sleeping",
+    "similarity": 0.08
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.03
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I feel nervous",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The car is parked outside",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am feeling great",
+    "similarity": 0.78
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "It is raining today",
+    "similarity": 0.79
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am cleaning my room",
+    "similarity": 0.59
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am scared",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I feel nervous",
+    "similarity": 0.57
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am feeling great",
+    "similarity": 0.48
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am doing yoga",
+    "similarity": 0.23
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The weather is cold",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The dog is barking",
+    "similarity": 0.5
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.69
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am cooking dinner",
+    "similarity": 0.22
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is sunny today",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am learning a new language",
+    "similarity": 0.31
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am cooking dinner",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The food tastes great",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I feel confident",
+    "similarity": 0.01
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The cat is sleeping",
+    "similarity": 0.25
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am cooking dinner",
+    "similarity": 0.11
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I feel confident",
+    "similarity": 0.06
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I feel nervous",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The bed is comfortable",
+    "similarity": 0.12
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am doing yoga",
+    "similarity": 0.05
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The phone is ringing",
+    "similarity": 0.49
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "A storm is coming",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "It is windy today",
+    "similarity": 0.21
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The bed is comfortable",
+    "similarity": 0.08
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I feel excited",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The bed is comfortable",
+    "similarity": 0.69
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am learning a new language",
+    "similarity": 0.05
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The bed is comfortable",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "It is raining today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I feel nervous",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.81
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am studying for exams",
+    "similarity": 0.56
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "The cat is sleeping",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am learning a new language",
+    "similarity": 0.48
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am studying for exams",
+    "similarity": 0.08
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The game was fun",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I feel excited",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I feel confident",
+    "similarity": 0.06
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "It is cloudy today",
+    "similarity": 0.63
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The computer is running",
+    "similarity": 0.11
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The dog is barking",
+    "similarity": 0.4
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The weather is hot",
+    "similarity": 0.94
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "It is raining today",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The weather is hot",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is hot",
+    "similarity": 0.18
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am learning a new language",
+    "similarity": 0.28
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am doing yoga",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The computer is running",
+    "similarity": 0.41
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.39
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am feeling great",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am happy today",
+    "similarity": 0.7
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "It is raining today",
+    "similarity": 0.33
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The phone is ringing",
+    "similarity": 1.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I feel excited",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am coding a project",
+    "similarity": 0.53
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am very tired",
+    "similarity": 0.27
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I feel excited",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am sad today",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am scared",
+    "similarity": 0.41
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am scared",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am cleaning my room",
+    "similarity": 0.41
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The phone is ringing",
+    "similarity": 0.24
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.11
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "It is raining today",
+    "similarity": 0.65
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The computer is running",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am happy today",
+    "similarity": 0.43
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The weather is cold",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am studying for exams",
+    "similarity": 0.69
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am happy today",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I feel excited",
+    "similarity": 0.3
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am very tired",
+    "similarity": 0.51
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The computer is running",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The computer is running",
+    "similarity": 0.51
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am cleaning my room",
+    "similarity": 0.25
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I am coding a project",
+    "similarity": 0.03
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am studying for exams",
+    "similarity": 0.01
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am studying for exams",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The computer is running",
+    "similarity": 0.15
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am playing football",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am reading a book",
+    "similarity": 0.19
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am a bit upset",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "It might snow today",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The phone is ringing",
+    "similarity": 0.19
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am a bit upset",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am learning a new language",
+    "similarity": 0.67
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The room is clean",
+    "similarity": 0.15
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am watching a movie",
+    "similarity": 0.38
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The computer is running",
+    "similarity": 0.62
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am scared",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am doing yoga",
+    "similarity": 0.07
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am going to the gym",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am reading a book",
+    "similarity": 0.14
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am happy today",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am cooking dinner",
+    "similarity": 0.37
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is raining today",
+    "similarity": 0.21
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am going to the gym",
+    "similarity": 0.34
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.12
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The weather is hot",
+    "similarity": 0.24
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am coding a project",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am feeling great",
+    "similarity": 0.65
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "It is a beautiful day",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "A storm is coming",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am doing yoga",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The food tastes great",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The weather is cold",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "It is cloudy today",
+    "similarity": 0.19
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "It is cloudy today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am watching a movie",
+    "similarity": 0.29
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am doing yoga",
+    "similarity": 0.63
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The car is parked outside",
+    "similarity": 0.05
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The phone is ringing",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "The weather is hot",
+    "similarity": 0.08
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "The movie was boring",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The dog is barking",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It is raining today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "It is a beautiful day",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The weather is hot",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "The dog is barking",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am watching a movie",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I am reading a book",
+    "similarity": 0.29
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "It is raining today",
+    "similarity": 0.25
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "A storm is coming",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am very tired",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am a bit upset",
+    "similarity": 0.74
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "It is raining today",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am cooking dinner",
+    "similarity": 0.19
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I am cleaning my room",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am sad today",
+    "similarity": 0.48
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The weather is hot",
+    "similarity": 0.21
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The phone is ringing",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am going to the gym",
+    "similarity": 0.22
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The dog is barking",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The phone is ringing",
+    "similarity": 0.27
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The weather is cold",
+    "similarity": 0.84
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am learning a new language",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am very tired",
+    "similarity": 0.22
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I feel nervous",
+    "similarity": 0.82
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am going to the gym",
+    "similarity": 0.95
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I feel nervous",
+    "similarity": 0.11
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "It is cloudy today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "The weather is hot",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am doing yoga",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am going to the gym",
+    "similarity": 0.43
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is a beautiful day",
+    "similarity": 0.4
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The computer is running",
+    "similarity": 0.52
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am happy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am coding a project",
+    "similarity": 0.39
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am watching a movie",
+    "similarity": 0.51
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The weather is hot",
+    "similarity": 0.37
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am going to the gym",
+    "similarity": 0.37
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am playing football",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The dog is barking",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "It is a beautiful day",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The food tastes great",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The room is clean",
+    "similarity": 0.7
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am scared",
+    "similarity": 0.13
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is a beautiful day",
+    "similarity": 0.08
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The cat is sleeping",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The dog is barking",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I feel confident",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am watching a movie",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I feel excited",
+    "similarity": 0.24
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am happy today",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.51
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I feel confident",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am very tired",
+    "similarity": 0.68
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The movie was boring",
+    "similarity": 0.02
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am doing yoga",
+    "similarity": 0.39
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am going to the gym",
+    "similarity": 0.25
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The cat is sleeping",
+    "similarity": 0.37
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The weather is hot",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The computer is running",
+    "similarity": 0.16
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "It might snow today",
+    "similarity": 0.41
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am happy today",
+    "similarity": 0.02
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "It is raining today",
+    "similarity": 0.32
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am doing yoga",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The room is clean",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am playing football",
+    "similarity": 0.65
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am going to the gym",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.48
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I feel nervous",
+    "similarity": 0.05
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The weather is hot",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am studying for exams",
+    "similarity": 0.08
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am reading a book",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am watching a movie",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The room is clean",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am studying for exams",
+    "similarity": 0.25
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am cleaning my room",
+    "similarity": 0.48
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The room is clean",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "The weather is cold",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am doing yoga",
+    "similarity": 0.26
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The food tastes great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am a bit upset",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "It might snow today",
+    "similarity": 0.04
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am reading a book",
+    "similarity": 0.1
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The dog is barking",
+    "similarity": 0.32
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The weather is hot",
+    "similarity": 0.45
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am learning a new language",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am sad today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The room is clean",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am learning a new language",
+    "similarity": 0.54
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It is windy today",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "It is sunny today",
+    "similarity": 0.41
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The cat is sleeping",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am cleaning my room",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "It is windy today",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The room is clean",
+    "similarity": 0.3
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "A storm is coming",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am cooking dinner",
+    "similarity": 0.38
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The room is clean",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "A storm is coming",
+    "similarity": 0.32
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am playing football",
+    "similarity": 0.36
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I feel nervous",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am happy today",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The weather is cold",
+    "similarity": 0.18
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am a bit upset",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am coding a project",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am studying for exams",
+    "similarity": 0.52
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "A storm is coming",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The dog is barking",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The game was fun",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I feel excited",
+    "similarity": 0.31
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The room is clean",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "The bed is comfortable",
+    "similarity": 0.41
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am feeling great",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "It is cloudy today",
+    "similarity": 0.34
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "A storm is coming",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The cat is sleeping",
+    "similarity": 0.05
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The computer is running",
+    "similarity": 0.43
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am learning a new language",
+    "similarity": 0.26
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am doing yoga",
+    "similarity": 0.56
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am playing football",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.02
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I feel excited",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "A storm is coming",
+    "similarity": 0.21
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am cooking dinner",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "It is sunny today",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am sad today",
+    "similarity": 0.58
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The cat is sleeping",
+    "similarity": 0.39
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "It is windy today",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "It is cloudy today",
+    "similarity": 0.25
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am watching a movie",
+    "similarity": 0.43
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "A storm is coming",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The car is parked outside",
+    "similarity": 0.33
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am going to the gym",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am sad today",
+    "similarity": 0.56
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am doing yoga",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "A storm is coming",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "It is cloudy today",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The computer is running",
+    "similarity": 0.22
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It is a beautiful day",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The game was fun",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am feeling great",
+    "similarity": 0.83
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.7
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The bed is comfortable",
+    "similarity": 0.4
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The room is clean",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The food tastes great",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "A storm is coming",
+    "similarity": 0.35
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The dog is barking",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am sad today",
+    "similarity": 0.26
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The computer is running",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The phone is ringing",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am happy today",
+    "similarity": 0.49
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "It is sunny today",
+    "similarity": 0.68
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "It is cloudy today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The cat is sleeping",
+    "similarity": 0.62
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am doing yoga",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The weather is cold",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "A storm is coming",
+    "similarity": 0.41
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am going to the gym",
+    "similarity": 0.37
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am doing yoga",
+    "similarity": 0.2
+  },
+  {
+    "text1": "I am scared",
+    "text2": "A storm is coming",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am coding a project",
+    "similarity": 0.59
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am happy today",
+    "similarity": 0.63
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The computer is running",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "A storm is coming",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The game was fun",
+    "similarity": 0.27
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The movie was boring",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.12
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The bed is comfortable",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am playing football",
+    "similarity": 0.24
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The dog is barking",
+    "similarity": 0.45
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am playing football",
+    "similarity": 0.16
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am cleaning my room",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am cooking dinner",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The food tastes great",
+    "similarity": 0.35
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "The food tastes great",
+    "similarity": 0.29
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am very tired",
+    "similarity": 0.13
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I feel nervous",
+    "similarity": 0.1
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am happy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am cooking dinner",
+    "similarity": 0.48
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.12
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am watching a movie",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I feel excited",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It is cloudy today",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The car is parked outside",
+    "similarity": 0.49
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "It is raining today",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I feel nervous",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The dog is barking",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "It is sunny today",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The movie was boring",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am happy today",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The cat is sleeping",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The dog is barking",
+    "similarity": 0.63
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The room is clean",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am sad today",
+    "similarity": 0.85
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am scared",
+    "similarity": 0.31
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "It is a beautiful day",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "A storm is coming",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am playing football",
+    "similarity": 0.57
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am doing yoga",
+    "similarity": 0.54
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am coding a project",
+    "similarity": 0.6
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am scared",
+    "similarity": 0.57
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The game was fun",
+    "similarity": 0.2
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "It is raining today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am watching a movie",
+    "similarity": 0.49
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am happy today",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am feeling great",
+    "similarity": 0.23
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The car is parked outside",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I feel nervous",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am watching a movie",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am feeling great",
+    "similarity": 1.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am a bit upset",
+    "similarity": 0.23
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am a bit upset",
+    "similarity": 0.33
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The weather is cold",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am scared",
+    "text2": "It might snow today",
+    "similarity": 0.07
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "A storm is coming",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "It is sunny today",
+    "similarity": 0.26
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "It is sunny today",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am studying for exams",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I feel confident",
+    "similarity": 0.68
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am sad today",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "It is raining today",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The car is parked outside",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The cat is sleeping",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.4
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The dog is barking",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I feel confident",
+    "similarity": 0.14
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The cat is sleeping",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "The bed is comfortable",
+    "similarity": 0.37
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "It is a beautiful day",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am very tired",
+    "similarity": 0.64
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The computer is running",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am feeling great",
+    "similarity": 0.58
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am feeling great",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am happy today",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The weather is cold",
+    "similarity": 0.21
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "The food tastes great",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I am learning a new language",
+    "similarity": 0.22
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am cleaning my room",
+    "similarity": 0.58
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The cat is sleeping",
+    "similarity": 0.46
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "A storm is coming",
+    "similarity": 0.99
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I feel excited",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am cooking dinner",
+    "similarity": 0.44
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am studying for exams",
+    "similarity": 0.56
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The movie was boring",
+    "similarity": 0.06
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "It is sunny today",
+    "similarity": 0.12
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "The car is parked outside",
+    "similarity": 0.45
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am learning a new language",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am cleaning my room",
+    "similarity": 0.3
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am very tired",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The computer is running",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am coding a project",
+    "similarity": 0.67
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "It is raining today",
+    "similarity": 0.33
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am a bit upset",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is windy today",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "It is cloudy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am happy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The food tastes great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am doing yoga",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "A storm is coming",
+    "similarity": 0.04
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am watching a movie",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It is cloudy today",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am feeling great",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am scared",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The car is parked outside",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am watching a movie",
+    "similarity": 0.37
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "It is raining today",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I feel confident",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am studying for exams",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "It is raining today",
+    "similarity": 0.64
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is cold",
+    "similarity": 0.2
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am learning a new language",
+    "similarity": 0.56
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am cooking dinner",
+    "similarity": 0.28
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "A storm is coming",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "It is windy today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The cat is sleeping",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "A storm is coming",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am scared",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "A storm is coming",
+    "similarity": 0.7
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am sad today",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The cat is sleeping",
+    "similarity": 0.36
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am cooking dinner",
+    "similarity": 0.08
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The computer is running",
+    "similarity": 0.3
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The computer is running",
+    "similarity": 0.38
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am going to the gym",
+    "similarity": 0.38
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The cat is sleeping",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am coding a project",
+    "similarity": 0.09
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "A storm is coming",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am watching a movie",
+    "similarity": 0.51
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am cleaning my room",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The computer is running",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am watching a movie",
+    "similarity": 0.38
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am scared",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am studying for exams",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The game was fun",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am feeling great",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am coding a project",
+    "similarity": 0.5
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The food tastes great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am a bit upset",
+    "similarity": 0.12
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The cat is sleeping",
+    "similarity": 0.22
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is raining today",
+    "similarity": 0.94
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "A storm is coming",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am happy today",
+    "similarity": 0.84
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is a beautiful day",
+    "similarity": 0.63
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am happy today",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The computer is running",
+    "similarity": 0.09
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "A storm is coming",
+    "similarity": 0.61
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am watching a movie",
+    "similarity": 0.61
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am very tired",
+    "similarity": 0.31
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am cleaning my room",
+    "similarity": 0.13
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am studying for exams",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The dog is barking",
+    "similarity": 0.04
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "It is raining today",
+    "similarity": 0.45
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am happy today",
+    "similarity": 0.68
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "It is sunny today",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am scared",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am very tired",
+    "similarity": 0.5
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "The room is clean",
+    "similarity": 0.31
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.44
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The dog is barking",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am watching a movie",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The cat is sleeping",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am learning a new language",
+    "similarity": 0.26
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am scared",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The weather is cold",
+    "similarity": 0.01
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am feeling great",
+    "similarity": 0.75
+  },
+  {
+    "text1": "I am scared",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The room is clean",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am coding a project",
+    "similarity": 0.32
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is a beautiful day",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The room is clean",
+    "similarity": 0.01
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am doing yoga",
+    "similarity": 0.18
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am happy today",
+    "similarity": 0.19
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The bed is comfortable",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am scared",
+    "similarity": 0.48
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am studying for exams",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am scared",
+    "similarity": 0.35
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am sad today",
+    "similarity": 0.19
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "It is sunny today",
+    "similarity": 0.5
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am sad today",
+    "similarity": 0.33
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The dog is barking",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I am reading a book",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am coding a project",
+    "similarity": 0.71
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The phone is ringing",
+    "similarity": 0.16
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am doing yoga",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am reading a book",
+    "similarity": 0.15
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am cleaning my room",
+    "similarity": 0.57
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I feel excited",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am coding a project",
+    "similarity": 0.75
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "It might snow today",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The food tastes great",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am learning a new language",
+    "similarity": 0.35
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "A storm is coming",
+    "similarity": 0.25
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The game was fun",
+    "similarity": 0.25
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am watching a movie",
+    "similarity": 0.78
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "It is raining today",
+    "similarity": 0.02
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I feel confident",
+    "similarity": 0.62
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The computer is running",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am playing football",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am watching a movie",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am feeling great",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am cleaning my room",
+    "similarity": 0.55
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The bed is comfortable",
+    "similarity": 0.3
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I feel excited",
+    "similarity": 0.27
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The weather is hot",
+    "similarity": 0.24
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "It is cloudy today",
+    "similarity": 0.61
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "It might snow today",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I feel confident",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am very tired",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am cooking dinner",
+    "similarity": 0.33
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The weather is cold",
+    "similarity": 0.05
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The cat is sleeping",
+    "similarity": 0.34
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "The weather is cold",
+    "similarity": 0.61
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The weather is cold",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am happy today",
+    "similarity": 0.74
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "It is windy today",
+    "similarity": 0.37
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The game was fun",
+    "similarity": 0.83
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The game was fun",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I feel excited",
+    "similarity": 0.26
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am learning a new language",
+    "similarity": 0.14
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am playing football",
+    "similarity": 0.05
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am studying for exams",
+    "similarity": 0.12
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The movie was boring",
+    "similarity": 0.38
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.68
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am reading a book",
+    "similarity": 0.48
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "The cat is sleeping",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "It is windy today",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The weather is cold",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am going to the gym",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am happy today",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The bed is comfortable",
+    "similarity": 0.21
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The room is clean",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The computer is running",
+    "similarity": 0.39
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am happy today",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "I feel excited",
+    "similarity": 0.07
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I feel nervous",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I feel confident",
+    "similarity": 0.28
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am scared",
+    "similarity": 0.61
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am cleaning my room",
+    "similarity": 0.08
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am reading a book",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The room is clean",
+    "similarity": 0.52
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am playing football",
+    "similarity": 0.02
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "The weather is cold",
+    "similarity": 0.81
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is raining today",
+    "similarity": 0.97
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "It is a beautiful day",
+    "similarity": 0.38
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am coding a project",
+    "similarity": 0.1
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The food tastes great",
+    "similarity": 0.1
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I feel confident",
+    "similarity": 0.31
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The computer is running",
+    "similarity": 0.35
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The cat is sleeping",
+    "similarity": 0.5
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am doing yoga",
+    "similarity": 0.83
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am reading a book",
+    "similarity": 0.1
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I am reading a book",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am a bit upset",
+    "similarity": 0.54
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am cleaning my room",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am a bit upset",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The food tastes great",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am happy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I feel excited",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am happy today",
+    "similarity": 0.48
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "The cat is sleeping",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The movie was boring",
+    "similarity": 0.26
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am feeling great",
+    "similarity": 0.01
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The weather is hot",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "It is raining today",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The phone is ringing",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am learning a new language",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The food tastes great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am scared",
+    "similarity": 1.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am very tired",
+    "similarity": 0.34
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "The movie was boring",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am very tired",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.53
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am playing football",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "It is sunny today",
+    "similarity": 0.21
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "It is cloudy today",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The weather is hot",
+    "similarity": 0.43
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The food tastes great",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "A storm is coming",
+    "similarity": 0.41
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "It is sunny today",
+    "similarity": 0.3
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The computer is running",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am reading a book",
+    "similarity": 0.67
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am learning a new language",
+    "similarity": 0.5
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The game was fun",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am feeling great",
+    "similarity": 0.01
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "A storm is coming",
+    "similarity": 0.48
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am doing yoga",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am going to the gym",
+    "similarity": 0.45
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am playing football",
+    "similarity": 0.18
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "A storm is coming",
+    "similarity": 0.35
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The computer is running",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The weather is hot",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The computer is running",
+    "similarity": 0.86
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The movie was boring",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The game was fun",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am sad today",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am watching a movie",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "I am cooking dinner",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am learning a new language",
+    "similarity": 0.55
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am cooking dinner",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "The weather is cold",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am studying for exams",
+    "similarity": 0.6
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am feeling great",
+    "similarity": 0.41
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The bed is comfortable",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am learning a new language",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am very tired",
+    "similarity": 0.6
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.29
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I feel confident",
+    "similarity": 0.19
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The cat is sleeping",
+    "similarity": 0.3
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am learning a new language",
+    "similarity": 0.09
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am going to the gym",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am learning a new language",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I feel excited",
+    "similarity": 0.16
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am watching a movie",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "It is windy today",
+    "similarity": 0.32
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "It is cloudy today",
+    "similarity": 0.77
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "The car is parked outside",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The weather is cold",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The cat is sleeping",
+    "similarity": 0.04
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am happy today",
+    "similarity": 0.32
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am cleaning my room",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The game was fun",
+    "similarity": 0.39
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is hot",
+    "similarity": 0.06
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The dog is barking",
+    "similarity": 0.43
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The cat is sleeping",
+    "similarity": 0.67
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "It is cloudy today",
+    "similarity": 0.87
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am very tired",
+    "similarity": 0.19
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The food tastes great",
+    "similarity": 0.01
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am watching a movie",
+    "similarity": 0.6
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am cooking dinner",
+    "similarity": 0.65
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am studying for exams",
+    "similarity": 0.68
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "It is windy today",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "It is sunny today",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The weather is cold",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.54
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I feel nervous",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The phone is ringing",
+    "similarity": 0.07
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am sad today",
+    "similarity": 0.02
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am very tired",
+    "similarity": 0.3
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The computer is running",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "The phone is ringing",
+    "similarity": 0.11
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The weather is hot",
+    "similarity": 0.45
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "It is cloudy today",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I feel nervous",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am cleaning my room",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am watching a movie",
+    "similarity": 0.51
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "I am studying for exams",
+    "similarity": 0.1
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The car is parked outside",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I feel confident",
+    "similarity": 0.04
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am learning a new language",
+    "similarity": 0.07
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "The car is parked outside",
+    "similarity": 0.23
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "It is a beautiful day",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am learning a new language",
+    "similarity": 0.61
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "It is raining today",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "The weather is cold",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The room is clean",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am reading a book",
+    "similarity": 0.67
+  },
+  {
+    "text1": "I am feeling great",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.66
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am a bit upset",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am watching a movie",
+    "similarity": 0.39
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "It might snow today",
+    "similarity": 0.02
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I feel confident",
+    "similarity": 0.13
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am very tired",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The computer is running",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am watching a movie",
+    "similarity": 0.18
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The cat is sleeping",
+    "similarity": 0.57
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.23
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I feel nervous",
+    "similarity": 0.29
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "The weather is hot",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am very tired",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "The car is parked outside",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am scared",
+    "similarity": 0.5
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The game was fun",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am coding a project",
+    "similarity": 0.27
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "The bed is comfortable",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I feel excited",
+    "similarity": 0.37
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am a bit upset",
+    "similarity": 0.43
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am playing football",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "I am going to the gym",
+    "similarity": 0.89
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The cat is sleeping",
+    "similarity": 0.65
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am cooking dinner",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The cat is sleeping",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The car is parked outside",
+    "similarity": 0.28
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am reading a book",
+    "similarity": 0.55
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is windy today",
+    "similarity": 0.6
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "I am watching a movie",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am reading a book",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The game was fun",
+    "similarity": 0.1
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "The bed is comfortable",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am cleaning my room",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am sad today",
+    "similarity": 0.52
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "It is windy today",
+    "similarity": 0.1
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The car is parked outside",
+    "similarity": 0.35
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The car is parked outside",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am feeling great",
+    "similarity": 0.61
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "The car is parked outside",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "The movie was boring",
+    "similarity": 0.47
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am doing yoga",
+    "similarity": 0.34
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "It is windy today",
+    "similarity": 0.29
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The movie was boring",
+    "similarity": 0.2
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am doing yoga",
+    "similarity": 0.14
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is sunny today",
+    "similarity": 0.72
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "It is sunny today",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "I am scared",
+    "similarity": 0.53
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am happy today",
+    "similarity": 0.45
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "It is raining today",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "I am very tired",
+    "similarity": 0.53
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The dog is barking",
+    "similarity": 0.51
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The room is clean",
+    "similarity": 0.04
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am feeling great",
+    "similarity": 0.01
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am watching a movie",
+    "similarity": 0.44
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "The bed is comfortable",
+    "similarity": 0.38
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I am cooking dinner",
+    "similarity": 0.18
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am coding a project",
+    "text2": "I am learning a new language",
+    "similarity": 0.52
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am playing football",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I feel nervous",
+    "similarity": 0.36
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am playing football",
+    "similarity": 0.36
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "I am very tired",
+    "similarity": 0.05
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am learning a new language",
+    "similarity": 0.54
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am doing yoga",
+    "similarity": 0.6
+  },
+  {
+    "text1": "It is cloudy today",
+    "text2": "The bed is comfortable",
+    "similarity": 0.07
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I feel nervous",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "It is raining today",
+    "similarity": 0.25
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am feeling great",
+    "similarity": 0.26
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "It might snow today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The dog is barking",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The food tastes great",
+    "similarity": 0.1
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am very tired",
+    "similarity": 0.17
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am scared",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am studying for exams",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is hot",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am feeling great",
+    "similarity": 0.85
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The computer is running",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "The dog is barking",
+    "similarity": 0.32
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am calm and relaxed",
+    "similarity": 1.0
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The computer is running",
+    "similarity": 0.33
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "It is raining today",
+    "similarity": 0.19
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am watching a movie",
+    "similarity": 0.09
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am feeling great",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The game was fun",
+    "text2": "It is a beautiful day",
+    "similarity": 0.15
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am sad today",
+    "similarity": 0.05
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "The room is clean",
+    "similarity": 0.42
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The bed is comfortable",
+    "similarity": 0.39
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The dog is barking",
+    "similarity": 0.31
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The room is clean",
+    "similarity": 0.03
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "I am a bit upset",
+    "similarity": 0.11
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "I am playing football",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am sad today",
+    "similarity": 0.93
+  },
+  {
+    "text1": "The room is clean",
+    "text2": "It is cloudy today",
+    "similarity": 0.22
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I feel confident",
+    "similarity": 0.14
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am playing football",
+    "similarity": 0.42
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am going to the gym",
+    "similarity": 0.48
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "A storm is coming",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "It is raining today",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am feeling great",
+    "similarity": 0.06
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "I am a bit upset",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The cat is sleeping",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am going to the gym",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "I feel confident",
+    "similarity": 0.72
+  },
+  {
+    "text1": "The cat is sleeping",
+    "text2": "The car is parked outside",
+    "similarity": 0.66
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The food tastes great",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am watching a movie",
+    "similarity": 0.6
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The computer is running",
+    "similarity": 0.45
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am learning a new language",
+    "text2": "The car is parked outside",
+    "similarity": 0.05
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "It is raining today",
+    "similarity": 0.55
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The weather is hot",
+    "similarity": 0.09
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "The bed is comfortable",
+    "similarity": 0.11
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.59
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The weather is hot",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The dog is barking",
+    "similarity": 0.12
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am happy today",
+    "similarity": 0.6
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am watching a movie",
+    "similarity": 0.66
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "The game was fun",
+    "similarity": 0.38
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.14
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The computer is running",
+    "similarity": 0.86
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "I am cleaning my room",
+    "similarity": 0.09
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I feel confident",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The dog is barking",
+    "similarity": 0.05
+  },
+  {
+    "text1": "The phone is ringing",
+    "text2": "It is a beautiful day",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am scared",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am calm and relaxed",
+    "text2": "I am scared",
+    "similarity": 0.27
+  },
+  {
+    "text1": "The computer is running",
+    "text2": "The car is parked outside",
+    "similarity": 0.48
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "There is a thunderstorm",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "The phone is ringing",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "I am coding a project",
+    "similarity": 0.45
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "I am watching a movie",
+    "similarity": 0.74
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The game was fun",
+    "similarity": 0.05
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "I am a bit upset",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The game was fun",
+    "similarity": 0.15
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The movie was boring",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am a bit upset",
+    "similarity": 0.62
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "It might snow today",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The movie was boring",
+    "similarity": 0.13
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "The phone is ringing",
+    "similarity": 0.17
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "I am going to the gym",
+    "similarity": 0.19
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "It is raining today",
+    "similarity": 0.39
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am cooking dinner",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am scared",
+    "text2": "I am cooking dinner",
+    "similarity": 0.79
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "It is sunny today",
+    "similarity": 0.04
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "The weather is cold",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I feel excited",
+    "similarity": 0.33
+  },
+  {
+    "text1": "I am very tired",
+    "text2": "I am a bit upset",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "The cat is sleeping",
+    "similarity": 0.02
+  },
+  {
+    "text1": "The weather is cold",
+    "text2": "The computer is running",
+    "similarity": 0.57
+  },
+  {
+    "text1": "I am studying for exams",
+    "text2": "I am scared",
+    "similarity": 0.46
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "The cat is sleeping",
+    "similarity": 0.15
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "It is a beautiful day",
+    "similarity": 0.69
+  },
+  {
+    "text1": "It might snow today",
+    "text2": "I am going to the gym",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is sunny today",
+    "text2": "The weather is hot",
+    "similarity": 0.06
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am reading a book",
+    "similarity": 0.32
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "The phone is ringing",
+    "similarity": 0.51
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "I am a bit upset",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "I am playing football",
+    "similarity": 0.66
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "It is windy today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.57
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The cat is sleeping",
+    "similarity": 0.34
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "I am reading a book",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "I am studying for exams",
+    "similarity": 0.31
+  },
+  {
+    "text1": "I feel confident",
+    "text2": "The weather is cold",
+    "similarity": 0.06
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I am doing yoga",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am watching a movie",
+    "text2": "I am sad today",
+    "similarity": 0.21
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "I am doing yoga",
+    "similarity": 0.02
+  },
+  {
+    "text1": "The weather is hot",
+    "text2": "I am coding a project",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The bed is comfortable",
+    "similarity": 0.17
+  },
+  {
+    "text1": "It is a beautiful day",
+    "text2": "The weather is hot",
+    "similarity": 0.24
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The room is clean",
+    "similarity": 0.0
+  },
+  {
+    "text1": "It is windy today",
+    "text2": "The weather is hot",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am happy today",
+    "text2": "I am calm and relaxed",
+    "similarity": 0.62
+  },
+  {
+    "text1": "The food tastes great",
+    "text2": "I am studying for exams",
+    "similarity": 0.15
+  },
+  {
+    "text1": "I am cooking dinner",
+    "text2": "The food tastes great",
+    "similarity": 0.17
+  },
+  {
+    "text1": "I am sad today",
+    "text2": "The phone is ringing",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I am reading a book",
+    "text2": "I am doing yoga",
+    "similarity": 0.29
+  },
+  {
+    "text1": "I am cleaning my room",
+    "text2": "The computer is running",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am a bit upset",
+    "text2": "It is sunny today",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "I am cooking dinner",
+    "similarity": 0.08
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "The game was fun",
+    "similarity": 0.0
+  },
+  {
+    "text1": "I feel nervous",
+    "text2": "The dog is barking",
+    "similarity": 0.08
+  },
+  {
+    "text1": "The bed is comfortable",
+    "text2": "The movie was boring",
+    "similarity": 0.4
+  },
+  {
+    "text1": "I am playing football",
+    "text2": "The weather is hot",
+    "similarity": 0.0
+  },
+  {
+    "text1": "There is a thunderstorm",
+    "text2": "The food tastes great",
+    "similarity": 0.12
+  },
+  {
+    "text1": "It is raining today",
+    "text2": "It is a beautiful day",
+    "similarity": 0.68
+  },
+  {
+    "text1": "The movie was boring",
+    "text2": "It is raining today",
+    "similarity": 0.16
+  },
+  {
+    "text1": "I feel excited",
+    "text2": "It might snow today",
+    "similarity": 0.03
+  },
+  {
+    "text1": "I am doing yoga",
+    "text2": "It is raining today",
+    "similarity": 0.01
+  },
+  {
+    "text1": "The dog is barking",
+    "text2": "The movie was boring",
+    "similarity": 0.31
+  },
+  {
+    "text1": "The car is parked outside",
+    "text2": "I am feeling great",
+    "similarity": 0.0
+  },
+  {
+    "text1": "A storm is coming",
+    "text2": "I am sad today",
+    "similarity": 0.0
+  }
+]
