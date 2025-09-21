@@ -1,0 +1,93 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+/* Background grid */
+.custom-class {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* Foreground content */
+.content {
+  position: relative;
+  z-index: 10;
+  padding: 150px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Heading */
+.content h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 40px;
+  text-shadow: 0 0 10px rgba(255,255,255,0.3);
+  cursor: default;
+}
+
+/* Drag & Drop Zone */
+.drop-zone {
+  width: 400px;
+  max-width: 90%;
+  padding: 40px;
+  border-radius: 25px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(15px);
+  border: 2px dashed rgba(255,255,255,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+.drop-zone:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.6);
+  transform: scale(1.02);
+}
+
+/* Drop zone text */
+.drop-zone p {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  color: #fff;
+}
+
+/* PDF list */
+.pdf-list {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Individual PDF cards */
+.pdf-item {
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(12px);
+  padding: 18px 28px;
+  border-radius: 25px;
+  width: 350px;
+  max-width: 90%;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+.pdf-item:hover {
+  background: rgba(255,255,255,0.15);
+}
