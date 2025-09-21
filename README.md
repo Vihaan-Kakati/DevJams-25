@@ -1,16 +1,14 @@
-# React + Vite
+# AI-Powered PDF Analyzer 🧠✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](https://placehold.co/1200x400/000000/FFFFFF/png?text=DocuSumm\nAI-Powered+PDF+Analyzer)
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Flask-black.svg)](https://flask.palletsprojects.com/)
 
-## Expanding the ESLint configuration
-
-HEAD
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</div>
 
 > A powerful web-based tool to effortlessly summarize the similarities of 2 PDF documents using the advanced **NPNET** model.
 
@@ -37,7 +35,8 @@ Here’s a quick look at the DocuSumm interface.
 
 This project is built with a modern stack, combining a powerful backend with a responsive frontend.
 
--   **Backend**: Python, Flask , 
+-   **Backend**: Python, Flask
+-   **Database**: MongoDB 
 -   **ML Model**: PyTorch, NPNET, Transformers
 -   **PDF Processing**: fitz (PyMuPDF) 
 -   **Frontend**: HTML5, CSS3, JavaScript 
@@ -54,4 +53,8 @@ Make sure you have Python 3.10 or less and pip installed on your system.
 
 ```sh
 python --version
-7486cc3f15708dbcb5030f4658b2c5d433ef7b1e
+```
+Make sure you install the required python packages 
+```sh
+pip install -r requirements.txt
+```
