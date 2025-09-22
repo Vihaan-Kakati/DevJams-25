@@ -12,8 +12,11 @@
   "dependencies": {
     "ambient-cbg": "^1.0.4",
     "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
     "gsap": "^3.13.0",
     "motion": "^12.23.16",
+    "multer": "^2.0.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "three": "^0.180.0"
