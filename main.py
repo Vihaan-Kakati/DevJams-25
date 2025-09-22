@@ -121,34 +121,34 @@ def summarize_matches(matches, max_chunks=5):
     
     combined_text = ""
     for m in top_matches:
-        if(m['score'] > 0.7):
+        if(m['score'] > 0.6):
             combined_text += f"{m['a_chunk']}\n {m['b_chunk']}\n\n"
 
     CHUNK_SIZE = 1000
     summaries = []
     for i in range(0, len(combined_text), CHUNK_SIZE):
         chunk = combined_text[i:i+CHUNK_SIZE]
-        summary = summarizer(chunk, max_length=100, min_length=30, do_sample=False)[0]['summary_text']
+        summary = summarizer(chunk, max_length=50, min_length=30, do_sample=False)[0]['summary_text']
         summaries.append(summary)
     
     return " ".join(summaries)
 
-pdf_a_path = "<pdf path>"
-pdf_b_path = "<pdf path>"
+pdf_a_path = r"backend\uploads\pdf_a.pdf"
+pdf_b_path = r"backend\uploads\pdf_b.pdf"
 
 ingest_pdf(pdf_a_path, "pdf_A")
 ingest_pdf(pdf_b_path, "pdf_B")
 
 result = compare_pdfs_vectorized("pdf_A", "pdf_B", k = 3)
 print("Overall similarity:", result["overall_similarity"])
-if result["overall_similarity"] < 0.7:
-    print("Similarity is very low.")
-else:
-    for m in result["matches"][:10]:
-        print(f"Score: {m['score']:.3f}")
-        print("A:", m["a_chunk"][:120].replace("\n", " "))
-        print("B:", m["b_chunk"][:120].replace("\n", " "))
-        print("---")
+#if result["overall_similarity"] < 0.7:
+#    print("Similarity is very low.")
+#else:
+for m in result["matches"][:10]:
+    print(f"Score: {m['score']:.3f}")
+    print("A:", m["a_chunk"][:120].replace("\n", " "))
+    print("B:", m["b_chunk"][:120].replace("\n", " "))
+    print("---")
 
-    summary_text = summarize_matches(result["matches"], max_chunks=5)
-    print("Summary of similarities:\n", summary_text)
+summary_text = summarize_matches(result["matches"], max_chunks=5)
+print("Summary of similarities:\n", summary_text)
